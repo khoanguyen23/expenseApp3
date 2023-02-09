@@ -1,1 +1,1 @@
-# expenseApp2
+# ExpensesApp
